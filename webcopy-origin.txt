@@ -1,0 +1,176 @@
+Uri: https://podlozhka.seilup.of.by/
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\index.htm
+Content Type: text/html
+
+Uri: https://podlozhka.seilup.of.by/agreement.html
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\agreement.html
+Content Type: text/html
+
+Uri: https://podlozhka.seilup.of.by/css/cssaae9aae9.css
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\css\cssaae9aae9.css
+Content Type: text/css
+
+Uri: https://podlozhka.seilup.of.by/css/form.min.css
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\css\form.min.css
+Content Type: text/css
+
+Uri: https://podlozhka.seilup.of.by/css/owl.carousel.min.css
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://podlozhka.seilup.of.by/css/reset.css
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\css\reset.css
+Content Type: text/css
+
+Uri: https://podlozhka.seilup.of.by/css/styles.css
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\css\styles.css
+Content Type: text/css
+
+Uri: https://podlozhka.seilup.of.by/dogovor_vozvrata.html
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\dogovor_vozvrata.html
+Content Type: text/html
+
+Uri: https://podlozhka.seilup.of.by/favicon.ico
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/fonts/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\fonts\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://podlozhka.seilup.of.by/images/04.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\04.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/05.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\05.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/1.jpeg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/11.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\11.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/12.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\12.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/13.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\13.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/ava1.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\ava1.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/ava2.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\ava2.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/ava3.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\ava3.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/harki.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\harki.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/offer3__discount_bg.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/offer3__image2.jpg
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\offer3__image2.jpg
+Content Type: image/jpeg
+
+Uri: https://podlozhka.seilup.of.by/images/offer__name_icon.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/offer__phone_icon.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/quote1_icon.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\quote1_icon.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/reviews2__arrows.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\reviews2__arrows.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/images/separator_red.png
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\images\separator_red.png
+Content Type: image/png
+
+Uri: https://podlozhka.seilup.of.by/js/formHelper.min.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\formHelper.min.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/jquery.min.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/jquery.min_1.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\jquery.min_1.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/jquery.min_1_1.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\jquery.min_1_1.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/jquery.min_1_2.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\jquery.min_1_2.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/jquery.yiiactiveform.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\jquery.yiiactiveform.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/maskedinput.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/owl.carousel.min.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/previewyoutube.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\previewyoutube.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/js/scripts.js
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://podlozhka.seilup.of.by/politics.html
+File Name: C:\Users\Eugene\Desktop\1\podlozhka.seilup.of.by\politics.html
+Content Type: text/html
+
